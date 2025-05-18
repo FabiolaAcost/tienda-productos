@@ -1,12 +1,18 @@
-# React + Vite
+# tienda-productos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web desarrollada con React y Vite que simula una tienda de productos. Incluye funcionalidades como carrito de compras, validación de formularios, autenticación con Firebase Auth y almacenamiento en Firestore. Todo el diseño fue realizado con Bootstrap.
 
-Currently, two official plugins are available:
+# Características principales
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Lista de productos y funcionalidad de carrito 
+- Formulario con validación y diseño responsive 
+- Autenticación de usuarios con Firebase Auth 
+- Almacenamiento de correos en Firestore 
+- Estilos integrados con Bootstrap 5 
 
-## Expanding the ESLint configuration
+# Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React + Vite
+- Firebase (Auth y Firestore)
+- Bootstrap
+- JavaScript
